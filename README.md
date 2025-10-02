@@ -1,4 +1,4 @@
-## python-fundamentals
+## DATA ANALYSIS WITH PYTHON
 
 **📌 Overview**
 
